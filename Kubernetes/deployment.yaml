@@ -18,4 +18,3 @@ spec:
         image: faozil/simple-web-app:latest
         ports:
         - containerPort: 80
-
